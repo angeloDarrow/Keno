@@ -1,0 +1,14 @@
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\obj\Debug\KinoProjectFromTheStart.csprojAssemblyReference.cache
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\obj\Debug\KinoProjectFromTheStart.csproj.CoreCompileInputs.cache
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\bin\Debug\KinoProjectFromTheStart.exe.config
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\bin\Debug\KinoProjectFromTheStart.exe
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\bin\Debug\KinoProjectFromTheStart.pdb
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\obj\Debug\KinoProjectFromTheStart.exe
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart\obj\Debug\KinoProjectFromTheStart.pdb
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\obj\Debug\KinoProjectFromTheStart.csprojAssemblyReference.cache
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\obj\Debug\KinoProjectFromTheStart.csproj.CoreCompileInputs.cache
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\obj\Debug\KinoProjectFromTheStart.exe
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\obj\Debug\KinoProjectFromTheStart.pdb
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\bin\Debug\KinoProjectFromTheStart.exe.config
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\bin\Debug\KinoProjectFromTheStart.exe
+C:\Users\ANGELIS\OneDrive\PROJECTS\KINO PROJECT\KinoProjectFromTheStart2\bin\Debug\KinoProjectFromTheStart.pdb
