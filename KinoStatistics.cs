@@ -8,9 +8,9 @@ namespace KinoProjectFromTheStart
 {
     class KinoStatistics
     {
-        public Dictionary<int,int> MostDrawnNumbers { get; set; }
+        public Dictionary<int, int> MostDrawnNumbers { get; set; }
         public int MaxDrawnNumbersFrequency { get; set; }
-        public Dictionary<int,int> MostDrawnKinoNumbers { get; set; }
+        public Dictionary<int, int> MostDrawnKinoNumbers { get; set; }
         public int MaxKinoNumbersFrequency { get; set; }
 
         public KinoStatistics()
@@ -19,6 +19,4 @@ namespace KinoProjectFromTheStart
             MostDrawnKinoNumbers = new Dictionary<int, int>();
         }
     }
-
-
 }
